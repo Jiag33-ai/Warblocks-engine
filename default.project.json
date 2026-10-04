@@ -1,0 +1,10 @@
+{
+  "name": "Warblocks",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Warblocks": { "$path": "src/shared/Warblocks" }
+    }
+  }
+}
